@@ -1,5 +1,6 @@
 # Design-a-Stopwatch-
 This is my way of doing this exercise don't hesitate to ask me any question, i hope i helped you.
+ 
 Exercise 1: Design a Stopwatch C# 
 
 Design a class called Stopwatch. The job of this class is to simulate a stopwatch. It should
